@@ -29,5 +29,6 @@ This game simulates a **real Blackjack experience** with betting, card animation
 ### 🔹 **Installation Steps**
 1️⃣ **Clone the repository**:
    ```sh
-   git clone https://github.com/dubal-prayag/Blackjack_Casino.git
-   cd Blackjack_Casino
+   git clone https://github.com/dubal-prayag/blackjack_Game.git
+   cd Blackjack_Game
+
